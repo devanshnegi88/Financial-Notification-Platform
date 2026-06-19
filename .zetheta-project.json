@@ -1,0 +1,39 @@
+{
+  "intern_id": "YOUR_INTERN_ID",
+  "intern_name": "Devansh Negi",
+  "intern_email": "devanshnegi88@gmail.com",
+  "project_code": "BE-6B",
+  "project_title": "Event-Driven Notification Engine with Multi-Channel Delivery",
+  "submission_type": "github",
+  "tech_stack": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "Redis",
+    "Kafka",
+    "RabbitMQ",
+    "Celery",
+    "Docker",
+    "SQLAlchemy",
+    "Alembic",
+    "Jinja2",
+    "Twilio",
+    "SendGrid",
+    "Firebase"
+  ],
+  "duration_days": 15,
+  "github_repo_url": "https://github.com/devanshnegi88/financial-notification-platform",
+  "assessment_criteria": {
+    "event_driven_architecture": true,
+    "multi_channel_delivery": true,
+    "template_engine": true,
+    "user_preferences": true,
+    "dnd_compliance": true,
+    "frequency_capping": true,
+    "delivery_tracking": true,
+    "dead_letter_queue": true,
+    "analytics_pipeline": true,
+    "load_testing": false,
+    "ci_cd_pipeline": true
+  }
+}
