@@ -271,5 +271,6 @@ financial-notification-platform/
 ## License
 
 MIT
-#   F i n a n c i a l - N o t i f i c a t i o n - P l a t f o r m  
+#   F i n a n c i a l - N o t i f i c a t i o n - P l a t f o r m 
+ 
  
